@@ -1,0 +1,23 @@
+{
+  "name": "profile-rebuild",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite src --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Pawan Tikar <pawantikar08@gmail.com>",
+  "devDependencies": {
+    "sass": "^1.89.2",
+    "vite": "^7.0.6"
+  },
+  "dependencies": {
+    "gsap": "^3.7.0",
+    "loconative-scroll": "https://github.com/quentinhocde/loconative-scroll"
+  }
+  
+}
